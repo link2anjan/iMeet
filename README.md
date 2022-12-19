@@ -15,7 +15,7 @@ https://localhost:7443
 ```
 
 ### Home Page:
-![alt text](https://github.com/link2anjan/iMeet/blob/main/Screenshot%202022-12-19%20at%209.52.30%20PM.png?raw=true)
+![alt text](https://github.com/link2anjan/iMeet/blob/main/imeet-home.png?raw=true)
 
 ### Type user name to join online
 ![alt text](https://github.com/link2anjan/iMeet/blob/main/user_page.jpg?raw=true)
