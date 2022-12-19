@@ -9,7 +9,7 @@ Docker must be installed in your runtime environment.
 docker run -p 7443:7443 a1anjanjana/imeet:1.1
 ```
 
-### Open application in browser
+### Open application in the browser
 ```markup
 https://localhost:7443
 ```
@@ -32,7 +32,7 @@ https://localhost:7443
 
 
 ### Contact Me:
-Mail: link2anjan@gmail.com 
+email: link2anjan@gmail.com 
 
 
 
